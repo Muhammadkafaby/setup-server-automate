@@ -17,7 +17,7 @@
 1. Clone the repository to your server.
 2. Navigate to the project directory:
    ```bash
-   cd devops-setup
+   cd setup-server-automate
    ```
 3. Make the main setup script executable:
    ```bash
