@@ -1,6 +1,6 @@
-# DevOps Setup
+# setup-server-automate
 
-**`devops-setup`** is an automation project designed to streamline the setup of a DevOps environment on a server. It includes a series of scripts that automate the installation and configuration of essential software and services, making it easier to establish a robust and secure development and production environment.
+**`setup-server-automate`** is an automation project designed to streamline the setup of a DevOps environment on a server. It includes a series of scripts that automate the installation and configuration of essential software and services, making it easier to establish a robust and secure development and production environment.
 
 ### Features:
 - **Comprehensive server setup**: Automates the installation of Docker, PostgreSQL, Nginx, and more.
